@@ -1,2 +1,0 @@
-Appearance  facade 都是外观的意思
-外观模式
